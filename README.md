@@ -1,4 +1,4 @@
-# Trump Tweet Sentiment Analysis
+# Trump Tweets Sentiment Analysis
 
 #### Project Overview:
 
